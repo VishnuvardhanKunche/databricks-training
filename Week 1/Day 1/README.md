@@ -4,7 +4,7 @@
 
 Day 1 focused on building a strong foundation in SQL. Started by learning SQL basics through **W3Schools** and then reinforced the concepts by watching the first two videos from the YouTube playlist below before moving on to hands-on query practice.
 
-**YouTube Playlist:** [SQL for Beginners](https://youtube.com/playlist?list=PLrZbzHGc7iABQ60q4X5IJOYaBM-ULmrVe&si=DbIRRCKzWUF6j_3F)
+**YouTube Playlist:** [SQL](https://youtube.com/playlist?list=PLrZbzHGc7iABQ60q4X5IJOYaBM-ULmrVe&si=DbIRRCKzWUF6j_3F)
 
 All hands-on queries were written and tested on [db-fiddle.com](https://www.db-fiddle.com/) using a custom Employee-Department-Project schema provided by the trainer.
 
@@ -36,8 +36,6 @@ Three tables were created for all practice queries throughout the training:
 | project_id | INT (PK) | Unique project ID |
 | name | VARCHAR(100) | Project name |
 | department_id | INT (FK) | References Department |
-
-> **Note:** The dataset includes edge cases — one employee (`Frank White`) has no department (`NULL`), and one project (`Project Iota`) has no department assigned. This tests behaviour in JOIN queries later.
 
 ---
 
@@ -112,5 +110,6 @@ Learned to filter groups after aggregation — `HAVING` is used where `WHERE` ca
 
 | File | Description |
 |------|-------------|
-| `queries.sql` | All 30 SQL queries practised today (Q1–Q30) |
+| `Question.txt` | All 30 SQL queries practised questions  |
+| `Solutions.sql` | All 30 SQL queries practised solutions |
 | `README.md` | This file — summary of Day 1 learnings |
