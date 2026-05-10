@@ -1,8 +1,8 @@
-# Week 1 - Day 3 - Window Functions
+# Week 1 - Day 4 - Window Functions
 
 ## Overview
 
-Day 3 focused on SQL window functions. Practiced on [db-fiddle.com](https://www.db-fiddle.com/) using a retail sales dataset with employees, customers and orders.
+Day 4 focused on SQL window functions. Practiced on [db-fiddle.com](https://www.db-fiddle.com/) using a retail sales dataset with employees, customers and orders.
 
 ---
 
