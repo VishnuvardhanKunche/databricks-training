@@ -1,20 +1,42 @@
 # databricks-training
-Daywise progress of Databricks training.
 
+Daywise progress of Databricks training by Capgemini for the Data Scientist role.
+
+---
+
+## Repository Structure
+
+```
 databricks-training/
 │
 ├── Week 1/
 │   ├── Day 1/
-│   │   ├── queries.sql          ← (Basic, String Matching, Date, Aggregate, Group By, Having)
+│   │   ├── queries.sql
 │   │   └── README.md
 │   ├── Day 2/
-│   │   ├── queries.sql          ← (Order By, Joins, Nested Queries, Combined)
+│   │   ├── queries.sql
 │   │   └── README.md
 │   ├── Day 3/
-│   │   ├── solutions.sql        ← Joins Assignment (Left Join, Right Join, Full Outer Join, Cross Join)
+│   │   ├── solutions.sql
 │   │   └── README.md
 │   └── Day 4/
-│       ├── solutions.sql        ← Window Functions (Row Number, Rank, Dense Rank, LAG, LEAD, NTILE, CTEs)
+│       ├── solutions.sql
 │       └── README.md
 │
 └── README.md
+```
+
+---
+
+## Weekly Progress
+
+### Week 1
+
+| Day | Topics Covered |
+|-----|----------------|
+| Day 1 | Basic Queries, String Matching, Date Queries, Aggregate Functions, Group By, Having |
+| Day 2 | Order By, Joins, Nested Queries, Correlated Subqueries, Combined Queries |
+| Day 3 | Left Join, Right Join, Full Outer Join, Cross Join |
+| Day 4 | Row Number, Rank, Dense Rank, Partition By, Running Totals, LAG, LEAD, Moving Average, NTILE, CTEs, Recursive CTEs |
+
+---
