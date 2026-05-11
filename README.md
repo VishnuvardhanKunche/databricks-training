@@ -1,6 +1,6 @@
 # databricks-training
 
-Daywise progress of Databricks training by Capgemini for the Data Scientist role.
+Daywise progress of Databricks training.
 
 ---
 
