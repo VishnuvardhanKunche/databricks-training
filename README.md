@@ -1,2 +1,2 @@
 # databricks-training
-Daywise progress of Databricks training
+Daywise progress of Databricks training.
