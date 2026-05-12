@@ -1,8 +1,8 @@
-# Week 1 - Day 4 - Window Functions and CTEs
+# Week 1 - Day 5 - Window Functions and CTEs
 
 ## Overview
 
-Day 4 continued window functions and introduced CTEs (Common Table Expressions). Practiced on [db-fiddle.com](https://www.db-fiddle.com/) using a retail sales dataset.
+Day 5 continued window functions and introduced CTEs (Common Table Expressions). Practiced on [db-fiddle.com](https://www.db-fiddle.com/) using a retail sales dataset.
 
 ---
 
