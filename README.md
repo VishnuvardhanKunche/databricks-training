@@ -32,7 +32,6 @@ databricks-training/
 │   │   ├── Readme.md
 │   │   ├── questions.txt
 │   │   └── solutions.sql
-│
 ├── Week 2/
 │   ├── Day 1/
 │   │   ├── Questions.txt
@@ -43,10 +42,10 @@ databricks-training/
 │   │   ├── solutions.sql
 │   │   └── Readme.md
 │   |── Week-1 Assignments/
-    ├── Joins_Assignment.sql
-    ├── Null_functions_Assignments.sql
-    ├── Str_Num_Date_functions.sql
-    └── Regex_Assignment.sql
+|   ├── Joins_Assignment.sql
+|   ├── Null_functions_Assignments.sql
+|   ├── Str_Num_Date_functions.sql
+|   └── Regex_Assignment.sql
 ```
 
 ---
