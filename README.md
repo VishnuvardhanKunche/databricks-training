@@ -42,10 +42,10 @@ databricks-training/
 │   │   ├── solutions.sql
 │   │   └── Readme.md
 │   |── Week-1 Assignments/
-|   ├── Joins_Assignment.sql
-|   ├── Null_functions_Assignments.sql
-|   ├── Str_Num_Date_functions.sql
-|   └── Regex_Assignment.sql
+|   |   ├── Joins_Assignment.sql
+|   |   ├── Null_functions_Assignments.sql
+|   |   ├── Str_Num_Date_functions.sql
+|   |   └── Regex_Assignment.sql
 ```
 
 ---
