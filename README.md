@@ -50,17 +50,3 @@ databricks-training/
 
 ---
 
-## Weekly Progress
-
-### Week 1
-
-| Day | Topics Covered |
-|-----|----------------|
-| Day 1 | Basic Queries, String Matching, Date Queries, Aggregate Functions, Group By, Having |
-| Day 2 | Order By, Joins, Nested Queries, Correlated Subqueries, Combined Queries |
-| Day 3 | Left Join, Right Join, Full Outer Join, Cross Join |
-| Day 4 | Row Number, Rank, Dense Rank, Partition By, Running Totals, LAG, LEAD, Moving Average, NTILE, CTEs, Recursive CTEs |
-| Day 5 |  |
-
-
----
