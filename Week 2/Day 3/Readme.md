@@ -38,10 +38,3 @@ Day 3 practiced SQL on previous year Cognizant hiring questions. The questions a
 - Date filtering using MONTH and YEAR functions
 
 ---
-
-## Files in This Folder
-
-| File | Description |
-|------|-------------|
-| `practice.sql` | All queries for Database 1 and Database 2 |
-| `README.md` | This file |
