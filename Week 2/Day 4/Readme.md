@@ -50,10 +50,3 @@ Day 4 practiced SQL on previous year Cognizant hiring questions. The questions a
 - COUNT with GROUP BY to find tickets booked per user
 
 ---
-
-## Files in This Folder
-
-| File | Description |
-|------|-------------|
-| `solutions.sql` | All queries for Database 0, 3 and 4 |
-| `README.md` | This file |
