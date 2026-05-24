@@ -1,7 +1,3 @@
--- String, Date and Number Functions Assignment
--- Platform: db-fiddle.com (MySQL 8.0)
-
-
 -- QUESTION 1: Employee Compensation Classification
 DROP TABLE IF EXISTS employee_payments;
 CREATE TABLE employee_payments (
