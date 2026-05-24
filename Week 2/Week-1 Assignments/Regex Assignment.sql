@@ -1,6 +1,3 @@
--- REGEX Basic Assignment
--- Platform: db-fiddle.com (MySQL 8.0)
-
 DROP TABLE IF EXISTS regex_practice;
 CREATE TABLE regex_practice (
     id INT,
