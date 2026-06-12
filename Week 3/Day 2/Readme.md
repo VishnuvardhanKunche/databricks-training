@@ -1,10 +1,10 @@
-# Week 3 - Day 2 - PySpark DataFrame Operations
+# Week 3 - Day 2 - PySpark DataFrame Operations (Part 1)
 
 ## Overview
 
-Day 2 focused on learning and practicing core **PySpark DataFrame operations** using an employee dataset.
+Day 2 focused on understanding the fundamentals of **PySpark DataFrame operations** in Databricks.
 
-The session covered selecting columns, filtering records, renaming columns, creating new columns, type casting, sorting data, and limiting records. These operations form the foundation for data transformation and analysis in PySpark.
+We worked with an Employee DataFrame and practiced selecting columns, using aliases, and filtering records based on various conditions. These operations are essential for data exploration and transformation in PySpark.
 
 ---
 
@@ -12,40 +12,58 @@ The session covered selecting columns, filtering records, renaming columns, crea
 
 ### DataFrame Creation
 
-* Created an Employee DataFrame using Python lists and schema columns
-* Loaded employee information including:
+* Created an Employee DataFrame using Python lists
+* Defined column names for employee information
+* Loaded data into a PySpark DataFrame
+* Displayed data using Databricks notebook environment
 
-  * Employee ID
-  * Name
-  * Age
-  * City
-  * Designation
-  * Salary
-  * Joining Date
-  * Department
+### Data Exploration
 
-### DataFrame Operations Practice
+* Selected individual and multiple columns
+* Retrieved specific employee information
+* Worked with column aliases for better readability
+* Filtered records using various conditions
 
-* Performed various column selection operations
-* Used aliases for better column readability
-* Applied filters using different conditions
-* Renamed columns using `withColumnRenamed()`
-* Created new calculated and conditional columns using `withColumn()`
-* Converted column datatypes using type casting
-* Sorted data using ascending and descending order
-* Limited records for analysis and preview
+---
+
+## PySpark Functions Used
+
+| Function       | Description                               |
+| -------------- | ----------------------------------------- |
+| `select()`     | Selects required columns from a DataFrame |
+| `col()`        | References a DataFrame column             |
+| `alias()`      | Creates temporary column names            |
+| `filter()`     | Filters rows based on conditions          |
+| `where()`      | Alternative method for filtering          |
+| `between()`    | Filters values within a specified range   |
+| `startswith()` | Filters strings starting with a pattern   |
+| `endswith()`   | Filters strings ending with a pattern     |
+| `contains()`   | Filters strings containing a pattern      |
+
+---
+
+## Key Concepts Learned
+
+| Concept           | Purpose                                      |
+| ----------------- | -------------------------------------------- |
+| Column Selection  | Retrieve required data from a DataFrame      |
+| Aliasing          | Improve readability of output columns        |
+| Filtering         | Extract records matching business conditions |
+| Logical Operators | Combine multiple filter conditions           |
+| String Filters    | Search and match text values                 |
+| Range Filters     | Retrieve data within specified limits        |
 
 ---
 
 ## Files in This Folder
 
-| File              | Description                                                 |
-| ----------------- | ----------------------------------------------------------- |
-| `session_2.ipynb` | Databricks notebook containing PySpark DataFrame operations |
-| `README.md`       | Documentation for Week 3 Day 2 exercises                    |
+| File              | Description                                                      |
+| ----------------- | ---------------------------------------------------------------- |
+| `PySpark_Exercise_1.ipynb` | Databricks notebook covering SELECT, ALIAS and FILTER operations |
+| `README.md`       | Documentation for Week 3 Day 2                                   |
 
 ---
 
 ## Outcome
 
-By the end of Day 2, we gained hands-on experience with essential PySpark DataFrame transformations and learned how to manipulate, filter, sort, and enrich data efficiently within Databricks.
+By the end of Day 2, we gained practical experience with PySpark DataFrames by selecting, renaming, and filtering data efficiently. These operations form the foundation for more advanced DataFrame transformations that will be covered in the next session.
