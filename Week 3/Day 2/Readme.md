@@ -1,4 +1,4 @@
-# Week 3 - Day 2 - PySpark DataFrame Operations (Part 1)
+# Week 3 - Day 2 - PySpark DataFrame Operations 
 
 ## Overview
 
