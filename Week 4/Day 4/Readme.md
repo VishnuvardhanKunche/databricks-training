@@ -1,4 +1,4 @@
-# Week 4 - Day 4 - Mini ETL Project Using PySpark
+# Week 4 - Day 4 - Mini ETL Project Using PySpark.
 
 ## Overview
 
