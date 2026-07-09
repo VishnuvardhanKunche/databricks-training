@@ -1,4 +1,3 @@
-```md
 # Week 5 - Phase 1: Reading Data files
 ---
 
