@@ -1,4 +1,4 @@
-# Offline Databricks Training - Day 1 (14-07-2026)
+# Offline Databricks Training - (14-07-2026)
 
 ---
 
