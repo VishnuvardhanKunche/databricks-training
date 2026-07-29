@@ -1,6 +1,4 @@
-# Offline Databricks Training
-
-## Day 2 (15-07-2026)
+# Offline Databricks Training (15-07-2026)
 
 ### Topic
 **SQL Joins and Set Operators**
